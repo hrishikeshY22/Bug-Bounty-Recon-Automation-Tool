@@ -61,8 +61,8 @@ Ensure the following tools are installed and available in your PATH:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bug-bounty-recon-tool.git
-   cd bug-bounty-recon-tool
+   git clone https://github.com/yourusername/Bug-Bounty-Recon-Automation-Tool.git
+   cd Bug-Bounty-Recon-Automation-Tool
    ```
 
 2. Make the script executable:
