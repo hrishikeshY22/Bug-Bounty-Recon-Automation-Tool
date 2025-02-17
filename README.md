@@ -1,4 +1,4 @@
-# Advanced Bug Bounty Recon Automation Tool
+# Bug Bounty Recon Automation Tool
 
 ## Description
 
